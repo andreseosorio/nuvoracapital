@@ -204,6 +204,7 @@
 
         fetch('https://formspree.io/f/xgodzlre', {
           method: 'POST',
+          headers: { 'Accept': 'application/json' },
           body: new FormData(form)
         })
         .then(function (res) { return res.json(); })
@@ -268,5 +269,6 @@
   applyLanguage(currentLang);
 
 })();
+
 
 
