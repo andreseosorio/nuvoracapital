@@ -209,7 +209,7 @@
         .then(function (res) { return res.json(); })
         .then(function (data) {
           if (submitBtn) { submitBtn.disabled = false; submitBtn.style.opacity = ''; }
-          if (data.success) {
+          if (data.ok) {
             if (successEl) {
               successEl.style.display = 'block';
               form.reset();
@@ -268,4 +268,5 @@
   applyLanguage(currentLang);
 
 })();
+
 
