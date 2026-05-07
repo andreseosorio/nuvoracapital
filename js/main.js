@@ -202,7 +202,7 @@
         if (submitBtn) { submitBtn.disabled = true; submitBtn.style.opacity = '0.6'; }
         if (errorEl)   errorEl.style.display = 'none';
 
-        fetch('https://api.web3forms.com/submit', {
+        fetch('https://formspree.io/f/xgodzlre', {
           method: 'POST',
           body: new FormData(form)
         })
@@ -268,3 +268,4 @@
   applyLanguage(currentLang);
 
 })();
+
