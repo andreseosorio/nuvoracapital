@@ -221,7 +221,7 @@
               errorEl.textContent = currentLang === 'es'
                 ? 'Error al enviar. Por favor intente de nuevo.'
                 : 'Failed to send. Please try again.';
-              errorEl.style.display = 'block';
+              // errorEl.style.display = 'block';
             }
           }
         })
@@ -231,7 +231,7 @@
             errorEl.textContent = currentLang === 'es'
               ? 'Error de conexión. Por favor intente de nuevo.'
               : 'Connection error. Please try again.';
-            errorEl.style.display = 'block';
+            // errorEl.style.display = 'block';
           }
         });
       }
@@ -269,6 +269,7 @@
   applyLanguage(currentLang);
 
 })();
+
 
 
 
