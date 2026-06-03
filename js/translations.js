@@ -27,9 +27,9 @@ window.translations = {
 
     /* ── ABOUT ── */
     about_label:   "Who We Are",
-    about_title:   "A Multi-Licensed Florida Financial Professional",
-    about_p1:      "Nuvora Capital is led by Andres Osorio, a licensed Mortgage Loan Originator, Florida Real Estate Sales Associate, and Property & Casualty Insurance Agent. With over 5 years of experience in the Florida financial and real estate markets, Andres assists both U.S. nationals and foreign nationals navigating the complexities of purchasing, financing, and protecting property in the United States.",
-    about_p2:      "All mortgage services are provided as a licensed MLO under a Florida-licensed mortgage company. Real estate services are delivered as a licensed Sales Associate under a Florida-licensed real estate broker. Insurance products are placed with independent, licensed carriers.",
+    about_title:   "Florida-Licensed Capital, Real Estate & Insurance Services",
+    about_p1:      "Nuvora Capital operates across mortgage origination, real estate, private lending, and property & casualty insurance. With deep experience in Florida's capital and real estate markets, Nuvora Capital serves U.S. nationals and foreign nationals with a comprehensive, institutional approach to acquiring, financing, and protecting property in the United States.",
+    about_p2:      "All mortgage origination services are conducted under a Florida-licensed mortgage company. Real estate services are performed under a Florida-licensed broker. Insurance products are placed through independent, state-authorized carriers. Every engagement is structured to meet full regulatory compliance.",
     stat_exp:      "Years Experience",
     stat_lic:      "Active FL Licenses",
     stat_bi:       "Bilingual Service",
@@ -40,13 +40,13 @@ window.translations = {
     services_title:    "Financing Solutions",
     services_subtitle: "Capital access and mortgage origination for every client profile.",
     svc_1_title: "Private Lending",
-    svc_1_desc:  "Access to private lending networks for business and investment opportunities — bridge loans, hard money, and asset-based lending for U.S. nationals and foreign nationals nationwide, when conventional financing is unavailable or impractical.",
+    svc_1_desc:  "Nuvora Capital structures and sources private credit solutions across real estate, business, energy, and infrastructure sectors. From bridge loans and hard money to asset-based credit facilities, our lending network extends to opportunities in oil & gas exploration, midstream operations, and power generation — providing institutional-grade capital access for U.S. nationals and foreign nationals where conventional financing falls short.",
     svc_2_title: "Mortgage Origination",
     svc_2_desc:  "Conventional, FHA, VA, USDA, and non-QM mortgage solutions for U.S. nationals purchasing or refinancing property in Florida. Foreign nationals may qualify through specialized programs — contact us to discuss your scenario.",
     svc_3_title: "Foreign Nationals",
     svc_3_desc:  "Specialized mortgage and financing programs for international investors, ITIN holders, and non-resident buyers purchasing or refinancing property in the United States.",
     svc_link:    "Inquire",
-    nmls_note:   "Mortgage services provided by Andres Osorio, Licensed MLO (NMLS #1986487), under a Florida-licensed mortgage company. Not a mortgage broker or lender. All loans subject to credit approval. Equal Housing Opportunity.",
+    nmls_note:   "Mortgage origination services are provided by a Licensed MLO (NMLS #1986487) under a Florida-licensed mortgage company. Nuvora Capital is not a mortgage broker or lender. All loans subject to credit approval and underwriting requirements. Equal Housing Opportunity.",
 
     /* ── INVESTOR STATEMENT ── */
     invest_label: "Active Investor",
@@ -57,15 +57,15 @@ window.translations = {
     /* ── REAL ESTATE ── */
     re_label:      "Real Estate Services",
     re_title:      "Buying or Selling in Florida?",
-    re_p1:         "As a licensed Florida Real Estate Sales Associate (License #3463304), Andres Osorio provides professional buyer and seller representation across the Florida real estate market. Services are performed under the supervision of a Florida-licensed real estate broker, ensuring full regulatory compliance and client protection.",
-    re_li1:        "Residential property purchases & sales",
-    re_li2:        "Investment property acquisition & disposition",
-    re_li3:        "Foreign national buyer representation",
-    re_li4:        "Pre-approval coordination with mortgage origination",
-    re_li5:        "Bilingual service in English and Spanish",
-    re_license:    "FL Real Estate Sales Associate · License #3463304",
+    re_p1:         "Nuvora Capital provides professional buyer and seller representation throughout the Florida market. All real estate services are delivered under the supervision of a Florida-licensed real estate broker, ensuring clients receive full fiduciary protection, regulatory compliance, and seamless coordination at every phase of the transaction.",
+    re_li1:        "Residential property acquisitions & dispositions",
+    re_li2:        "Investment portfolio acquisitions & asset dispositions",
+    re_li3:        "International and foreign national buyer representation",
+    re_li4:        "Integrated pre-approval coordination with mortgage origination",
+    re_li5:        "Full bilingual service in English and Spanish",
+    re_license:    "FL Licensed Real Estate Services · License #3463304",
     re_cta:        "Find a Property",
-    re_disclaimer: "Andres Osorio is a licensed Sales Associate, not a real estate broker. All transactions conducted under a Florida-licensed broker.",
+    re_disclaimer: "All real estate services are performed under the supervision of a Florida-licensed real estate broker, in accordance with Chapter 475, Florida Statutes and the Florida Real Estate Commission (FREC).",
 
     /* ── INSURANCE ── */
     ins_label:      "Insurance",
@@ -114,8 +114,8 @@ window.translations = {
     footer_privacy:  "Privacy Policy",
 
     /* ── LEGAL ── */
-    legal_mlo: "Mortgage: Andres Osorio is a Licensed Mortgage Loan Originator (MLO) | NMLS ID: 1986487 | Andres Osorio is NOT a mortgage broker or lender. All mortgage origination services are conducted under the licensing, supervision, and compliance requirements of a Florida-licensed mortgage company. All loans subject to credit approval, underwriting guidelines, and investor requirements. This is not a commitment to lend. Rates, programs, and terms subject to change without notice. Verify at nmlsconsumeraccess.org.",
-    legal_re:  "Real Estate: Andres Osorio is a Licensed Florida Real Estate Sales Associate | License #3463304 | As a Sales Associate, Andres Osorio is NOT a real estate broker. All real estate services are performed under the supervision of a Florida-licensed real estate broker in accordance with Chapter 475, Florida Statutes. Regulated by the Florida Real Estate Commission (FREC).",
+    legal_mlo: "Mortgage: Andres Osorio is a Licensed Mortgage Loan Originator (MLO) | NMLS ID: 1986487 | Nuvora Capital is NOT a mortgage broker or lender. All mortgage origination services are conducted under the licensing, supervision, and compliance requirements of a Florida-licensed mortgage company. All loans subject to credit approval, underwriting guidelines, and investor requirements. This is not a commitment to lend. Rates, programs, and terms subject to change without notice. Verify at nmlsconsumeraccess.org.",
+    legal_re:  "Real Estate: Andres Osorio is a Licensed Florida Real Estate Sales Associate | License #3463304 | All real estate services are performed under the supervision of a Florida-licensed real estate broker in accordance with Chapter 475, Florida Statutes. Regulated by the Florida Real Estate Commission (FREC).",
     legal_ins: "Insurance: Licensed Florida Insurance Agent | License #W558352 | Florida 220 Property & Casualty License | Insurance products are underwritten by independent, state-authorized insurance carriers. Coverage availability, terms, conditions, and pricing vary by carrier and individual circumstances. Nuvora Capital acts solely as an independent insurance agent and does not underwrite insurance products.",
     legal_copy: "© 2026 Nuvora Capital. All rights reserved."
   },
@@ -149,9 +149,9 @@ window.translations = {
 
     /* ── ABOUT ── */
     about_label:   "Quiénes Somos",
-    about_title:   "Un Profesional Financiero con Múltiples Licencias en Florida",
-    about_p1:      "Nuvora Capital está liderado por Andres Osorio, un Originador de Préstamos Hipotecarios licenciado, Agente de Bienes Raíces de Florida y Agente de Seguros de Propiedad y Accidentes. Con más de 5 años de experiencia en los mercados financieros e inmobiliarios de Florida, Andres asiste tanto a nacionales como a extranjeros en los procesos de compra, financiamiento y protección de propiedades en los Estados Unidos.",
-    about_p2:      "Todos los servicios hipotecarios se ofrecen como MLO licenciado bajo una compañía hipotecaria licenciada en Florida. Los servicios de bienes raíces se prestan como Agente de Ventas licenciado bajo un corredor de bienes raíces licenciado en Florida.",
+    about_title:   "Servicios Licenciados de Capital, Bienes Raíces y Seguros en Florida",
+    about_p1:      "Nuvora Capital opera en originación hipotecaria, bienes raíces, crédito privado y seguros de propiedad y accidentes. Con amplia experiencia en los mercados de capital e inmobiliario de Florida, Nuvora Capital atiende a nacionales e internacionales con un enfoque integral e institucional para adquirir, financiar y proteger propiedades en los Estados Unidos.",
+    about_p2:      "Todos los servicios de originación hipotecaria se realizan bajo una compañía hipotecaria licenciada en Florida. Los servicios de bienes raíces se prestan bajo un corredor licenciado en Florida. Los productos de seguros se colocan a través de aseguradoras independientes autorizadas por el estado. Cada compromiso está estructurado para cumplir plenamente con la normativa regulatoria.",
     stat_exp:      "Años de Experiencia",
     stat_lic:      "Licencias Activas en FL",
     stat_bi:       "Servicio Bilingüe",
@@ -162,13 +162,13 @@ window.translations = {
     services_title:    "Soluciones de Financiamiento",
     services_subtitle: "Acceso a capital y originación hipotecaria para todo tipo de cliente.",
     svc_1_title: "Crédito Privado",
-    svc_1_desc:  "Acceso a redes de préstamos privados para oportunidades de negocio e inversión — préstamos puente, hard money y financiamiento basado en activos cuando el financiamiento convencional no está disponible.",
+    svc_1_desc:  "Nuvora Capital estructura y obtiene soluciones de crédito privado en los sectores inmobiliario, empresarial, energético e infraestructura. Desde préstamos puente y hard money hasta líneas de crédito basadas en activos, nuestra red de financiamiento abarca oportunidades en exploración de petróleo y gas, operaciones midstream y generación de energía — ofreciendo acceso a capital de nivel institucional donde el financiamiento convencional no está disponible.",
     svc_2_title: "Originación Hipotecaria",
     svc_2_desc:  "Soluciones hipotecarias convencionales, FHA, VA, USDA y non-QM para residencias primarias y propiedades de inversión. MLO licenciado que origina préstamos a través de una compañía hipotecaria licenciada en Florida.",
     svc_3_title: "Extranjeros",
     svc_3_desc:  "Programas especializados de hipotecas y financiamiento para inversores internacionales, titulares de ITIN y compradores no residentes que adquieren o refinancian propiedades en los Estados Unidos.",
     svc_link:    "Consultar",
-    nmls_note:   "Servicios hipotecarios provistos por Andres Osorio, MLO Licenciado (NMLS #1986487), bajo una compañía hipotecaria licenciada en Florida. No es corredor ni prestamista hipotecario. Todos los préstamos sujetos a aprobación de crédito. Igualdad de Oportunidades de Vivienda.",
+    nmls_note:   "Los servicios de originación hipotecaria son provistos por un MLO Licenciado (NMLS #1986487) bajo una compañía hipotecaria licenciada en Florida. Nuvora Capital no es corredor ni prestamista hipotecario. Todos los préstamos sujetos a aprobación de crédito y requisitos de suscripción. Igualdad de Oportunidades de Vivienda.",
 
     /* ── INVESTOR STATEMENT ── */
     invest_label: "Inversor Activo",
@@ -179,15 +179,15 @@ window.translations = {
     /* ── REAL ESTATE ── */
     re_label:      "Servicios de Bienes Raíces",
     re_title:      "¿Comprando o Vendiendo en Florida?",
-    re_p1:         "Como Agente de Ventas de Bienes Raíces de Florida licenciado (Licencia #3463304), Andres Osorio ofrece representación profesional de compradores y vendedores en el mercado inmobiliario de Florida. Los servicios se prestan bajo la supervisión de un corredor de bienes raíces licenciado en Florida, garantizando pleno cumplimiento regulatorio y protección al cliente.",
-    re_li1:        "Compra y venta de propiedades residenciales",
-    re_li2:        "Adquisición y disposición de propiedades de inversión",
-    re_li3:        "Representación de compradores extranjeros",
-    re_li4:        "Coordinación de pre-aprobación con servicios hipotecarios",
-    re_li5:        "Servicio bilingüe en inglés y español",
-    re_license:    "Agente de Ventas de Bienes Raíces FL · Licencia #3463304",
+    re_p1:         "Nuvora Capital ofrece representación profesional de compradores y vendedores en todo el mercado de Florida. Todos los servicios de bienes raíces se prestan bajo la supervisión de un corredor de bienes raíces licenciado en Florida, garantizando a los clientes plena protección fiduciaria, cumplimiento regulatorio y coordinación integral en cada fase de la transacción.",
+    re_li1:        "Adquisiciones y disposiciones de propiedades residenciales",
+    re_li2:        "Adquisición de portafolios de inversión y disposición de activos",
+    re_li3:        "Representación de compradores internacionales y extranjeros",
+    re_li4:        "Coordinación integrada de pre-aprobación con originación hipotecaria",
+    re_li5:        "Servicio bilingüe completo en inglés y español",
+    re_license:    "Servicios de Bienes Raíces Licenciados en FL · Licencia #3463304",
     re_cta:        "Buscar una Propiedad",
-    re_disclaimer: "Andres Osorio es un Agente de Ventas licenciado, no un corredor de bienes raíces. Todas las transacciones se realizan bajo un corredor licenciado en Florida.",
+    re_disclaimer: "Todos los servicios de bienes raíces se realizan bajo la supervisión de un corredor de bienes raíces licenciado en Florida, de conformidad con el Capítulo 475 de los Estatutos de Florida y la Comisión de Bienes Raíces de Florida (FREC).",
 
     /* ── INSURANCE ── */
     ins_label:      "Seguros",
@@ -236,8 +236,8 @@ window.translations = {
     footer_privacy:  "Política de Privacidad",
 
     /* ── LEGAL ── */
-    legal_mlo: "Hipoteca: Andres Osorio es un Originador de Préstamos Hipotecarios (MLO) Licenciado | NMLS ID: 1986487 | Andres Osorio NO es corredor ni prestamista hipotecario. Todos los servicios de originación hipotecaria se realizan bajo los requisitos de licencia, supervisión y cumplimiento de una compañía hipotecaria licenciada en Florida. Todos los préstamos sujetos a aprobación de crédito, pautas de suscripción y requisitos del inversor. Esto no es un compromiso de préstamo. Tasas, programas y términos sujetos a cambios sin previo aviso. Verifique en nmlsconsumeraccess.org.",
-    legal_re:  "Bienes Raíces: Andres Osorio es un Agente de Ventas de Bienes Raíces de Florida Licenciado | Licencia #3463304 | Como Agente de Ventas, Andres Osorio NO es un corredor de bienes raíces. Todos los servicios de bienes raíces se realizan bajo la supervisión de un corredor de bienes raíces licenciado en Florida de acuerdo con el Capítulo 475, Estatutos de Florida. Regulado por la Comisión de Bienes Raíces de Florida (FREC).",
+    legal_mlo: "Hipoteca: Andres Osorio es un Originador de Préstamos Hipotecarios (MLO) Licenciado | NMLS ID: 1986487 | Nuvora Capital NO es corredor ni prestamista hipotecario. Todos los servicios de originación hipotecaria se realizan bajo los requisitos de licencia, supervisión y cumplimiento de una compañía hipotecaria licenciada en Florida. Todos los préstamos sujetos a aprobación de crédito, pautas de suscripción y requisitos del inversor. Esto no es un compromiso de préstamo. Tasas, programas y términos sujetos a cambios sin previo aviso. Verifique en nmlsconsumeraccess.org.",
+    legal_re:  "Bienes Raíces: Andres Osorio es un Agente de Ventas de Bienes Raíces de Florida Licenciado | Licencia #3463304 | Todos los servicios de bienes raíces se realizan bajo la supervisión de un corredor de bienes raíces licenciado en Florida de acuerdo con el Capítulo 475, Estatutos de Florida. Regulado por la Comisión de Bienes Raíces de Florida (FREC).",
     legal_ins: "Seguros: Agente de Seguros de Florida Licenciado | Licencia #W558352 | Licencia 220 de Propiedad y Accidentes de Florida | Los productos de seguros son suscritos por aseguradoras independientes autorizadas por el estado. La disponibilidad, términos, condiciones y precios de cobertura varían según la aseguradora y las circunstancias individuales. Nuvora Capital actúa únicamente como agente de seguros independiente y no suscribe productos de seguros.",
     legal_copy: "© 2026 Nuvora Capital. Todos los derechos reservados."
   }
